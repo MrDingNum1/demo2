@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07a0ef4c-9a7e-483b-b41a-781188dcd130" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YbV0e3lPRyGiQYB4rlwSP5VYOg" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo2.Demo2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a0ef4c-9a7e-483b-b41a-781188dcd130" name="Default Changelist" comment="" />
+      <created>1583211058101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583211058101</updated>
+      <workItem from="1583211060469" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="29" key="CommitChangelistDialog2" timestamp="1583211135287">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="504" y="29" key="CommitChangelistDialog2/0.0.1920.1030@0.0.1920.1030" timestamp="1583211135287" />
+    <state x="686" y="190" key="FileChooserDialogImpl" timestamp="1583211118173">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="686" y="190" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1583211118173" />
+  </component>
+</project>
