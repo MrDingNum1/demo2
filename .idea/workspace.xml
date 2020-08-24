@@ -1,20 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a0ef4c-9a7e-483b-b41a-781188dcd130" name="Default Changelist" comment="" />
+    <list default="true" id="07a0ef4c-9a7e-483b-b41a-781188dcd130" name="Default Changelist" comment="md">
+      <change beforePath="$PROJECT_DIR$/demo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="$USER_HOME$/.m2/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1YbV0e3lPRyGiQYB4rlwSP5VYOg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
     <configuration name="Demo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -25,17 +69,8 @@
       </method>
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,20 +80,56 @@
       <option name="presentableId" value="Default" />
       <updated>1583211058101</updated>
       <workItem from="1583211060469" duration="2000" />
+      <workItem from="1598258414819" duration="372000" />
     </task>
+    <task id="LOCAL-00001" summary="md">
+      <created>1598258583908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598258583908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="md" />
+    <option name="LAST_COMMIT_MESSAGE" value="md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="504" y="29" key="CommitChangelistDialog2" timestamp="1583211135287">
-      <screen x="0" y="0" width="1920" height="1030" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1598258776890">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="504" y="29" key="CommitChangelistDialog2/0.0.1920.1030@0.0.1920.1030" timestamp="1583211135287" />
-    <state x="686" y="190" key="FileChooserDialogImpl" timestamp="1583211118173">
-      <screen x="0" y="0" width="1920" height="1030" />
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598258776890" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1598258794604">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="686" y="190" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1583211118173" />
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598258794604" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1598258618977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598258618977" />
+    <state x="387" y="165" key="git4idea.merge.GitPullDialog" timestamp="1598258726669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="165" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1598258726669" />
+    <state x="57" y="29" key="new project wizard" timestamp="1598258517717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="29" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1598258517717" />
   </component>
 </project>
